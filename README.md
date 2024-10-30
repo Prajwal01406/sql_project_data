@@ -115,7 +115,20 @@ FROM
 
 Here are the insights that we get from the above querry 
 
-![top_paying_png](Project\Top_Paying_skills.jpg)
+| Tool        | Frequency |
+|-------------|--------|
+| SQL         | 8      |
+| Python      | 7      |
+| Tableau     | 6      |
+| R           | 4      |
+| Snowflake   | 3      |
+| Pandas      | 3      |
+| Excel       | 3      |
+| Azure       | 2      |
+| Bitbucket   | 2      |
+| Go          | 2      |
+
+
 AS we can see **SQL** and **Python** are the top paying skills for a Data Analyst Job.
 
 3. ## What are the most in-demand skills for data analysts (remote job)?
